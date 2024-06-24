@@ -25,4 +25,5 @@ The two basic requirements of an SRAM cell can be understood as follows:
 1. Width of access transistors Wa= 470nm
 2. Width of pulldown transistors Wn= 590nm
 
-![Basic cell sch](https://github.com/Karthik-6362/6T-SRAM/assets/137412032/5039367d-8334-4852-a5dd-e3ab14f662f8)
+![Basic_sch](https://github.com/Karthik-6362/6T-SRAM/assets/137412032/01621261-6dfd-49c1-9221-1fc4269c1bce)
+
